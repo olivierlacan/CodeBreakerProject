@@ -7,3 +7,6 @@ function guess() {
 }
 
 //implement new functions here
+function setHiddenFields(){
+    return 234;
+}
